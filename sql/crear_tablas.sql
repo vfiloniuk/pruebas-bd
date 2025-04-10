@@ -4,3 +4,6 @@ CREATE TABLE usuarios (
     email TEXT,
     edad INTEGER
 );
+
+
+-- Comentario de prueba para activar el workflow
